@@ -1,0 +1,156 @@
+[
+  {
+    "isbn": "1",
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "reviews": [
+      {
+        "user": "mark@watney.com",
+        "rating": 5,
+        "comment": "Science and humor perfectly balanced!"
+      }
+    ]
+  },
+  {
+    "isbn": "2",
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "reviews": [
+      {
+        "user": "gamer@oasis.com",
+        "rating": 4,
+        "comment": "Nostalgia and action-packed!"
+      }
+    ]
+  },
+  {
+    "isbn": "3",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "reviews": [
+      {
+        "user": "dreamer@example.com",
+        "rating": 5,
+        "comment": "Inspiring and poetic."
+      },
+      {
+        "user": "soulsearch@path.com",
+        "rating": 4,
+        "comment": "Motivational journey."
+      }
+    ]
+  },
+  {
+    "isbn": "4",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": [
+      {
+        "user": "justice@law.com",
+        "rating": 5,
+        "comment": "Powerful and emotional classic."
+      }
+    ]
+  },
+  {
+    "isbn": "5",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "reviews": [
+      {
+        "user": "harryfan@hogwarts.com",
+        "rating": 5,
+        "comment": "Triwizard Tournament was epic!"
+      }
+    ]
+  },
+  {
+    "isbn": "6",
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": [
+      {
+        "user": "truth@bigbrother.org",
+        "rating": 5,
+        "comment": "Disturbingly relevant."
+      },
+      {
+        "user": "rebel@freedom.net",
+        "rating": 4,
+        "comment": "A chilling dystopia."
+      }
+    ]
+  },
+  {
+    "isbn": "7",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": [
+      {
+        "user": "gatsbyfan@jazz.com",
+        "rating": 4,
+        "comment": "Beautifully written tragedy."
+      }
+    ]
+  },
+  {
+    "isbn": "8",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "reviews": [
+      {
+        "user": "holden@caulfield.org",
+        "rating": 3,
+        "comment": "Mixed feelings about Holden."
+      }
+    ]
+  },
+  {
+    "isbn": "9",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "reviews": [
+      {
+        "user": "bilbo@shire.me",
+        "rating": 5,
+        "comment": "Adventure begins here!"
+      }
+    ]
+  },
+  {
+    "isbn": "10",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "reviews": [
+      {
+        "user": "lizzy@bennet.uk",
+        "rating": 5,
+        "comment": "Romance and wit."
+      }
+    ]
+  },
+  {
+    "isbn": "11",
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "reviews": [
+      {
+        "user": "lennie@ranch.com",
+        "rating": 4,
+        "comment": "Heartbreaking and powerful."
+      }
+    ]
+  },
+  {
+    "isbn": "12",
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "reviews": [
+      {
+        "user": "zen@philosophy.org",
+        "rating": 4,
+        "comment": "Deep, reflective, and unique."
+      }
+    ]
+  }
+]
